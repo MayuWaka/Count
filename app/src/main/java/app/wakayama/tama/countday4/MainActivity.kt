@@ -15,6 +15,8 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             number = number + 1
             text.text = number.toString()
+
+
         }
     }
 }
