@@ -1,0 +1,2 @@
+rootProject.name='CountDay4'
+include ':app'
